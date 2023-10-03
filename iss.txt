@@ -1,0 +1,17 @@
+There Are Currently13 Astronauts On The ISS: 
+
+Sergey Prokopyev - on board
+Dmitry Petelin - on board
+Frank Rubio - on board
+Jing Haiping - on board
+Gui Haichow - on board
+Zhu Yangzhu - on board
+Jasmin Moghbeli - on board
+Andreas Mogensen - on board
+Satoshi Furukawa - on board
+Konstantin Borisov - on board
+Oleg Kononenko - on board
+Nikolai Chub - on board
+Loral O'Hara - on board
+
+ Your Current Latitude / Longitude Is: [46.5547, 15.6467]
